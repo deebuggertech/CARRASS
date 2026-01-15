@@ -1,230 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e73e9d57-b86a-410b-ae25-5e0f350399d3" name="Changes" comment="-" />
+    <list default="true" id="7c599502-b8f3-4c06-978e-ecdb7c48b735" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/kalman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;deebuggertech&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "deebuggertech"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/deebuggertech/SML-CARRASS.git&quot;,
-    &quot;accountId&quot;: &quot;c074c52e-64be-4854-b76f-7ffb4c9ea5a5&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/deebuggertech/CARRASS.git",
+    "accountId": "c074c52e-64be-4854-b76f-7ffb4c9ea5a5"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="37wXoMJtYauCDSsEgHnV1lmMMh2" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="38Haj9jyc8XKkdQPQzq86pEksZc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.capture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.capture_visualize.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo_complete_workflow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.radar-stuff.executor&quot;: &quot;Run&quot;,
-    &quot;Python.run.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.visualize_sensor.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fred/Development/GitHubProjects/TUM/CARRASS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\recordings\session_robot" />
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\recordings\session_person" />
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\recordings" />
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\utils" />
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\processing" />
-      <recent name="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\data_sources" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.capture_replay_visualize">
-    <configuration name="capture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capture.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="capture_replay_visualize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\Fred\Development\GitHubProjects\TUM\SML-CARRASS\utils\capture_replay_visualize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SML-CARRASS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SML-CARRASS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.simple" />
-      <item itemvalue="Python.run" />
-      <item itemvalue="Python.capture_replay_visualize" />
-      <item itemvalue="Python.capture" />
-      <item itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.capture_replay_visualize" />
-        <item itemvalue="Python.simple" />
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.capture" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -235,344 +67,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e73e9d57-b86a-410b-ae25-5e0f350399d3" name="Changes" comment="" />
-      <created>1767815281011</created>
+      <changelist id="7c599502-b8f3-4c06-978e-ecdb7c48b735" name="Changes" comment="" />
+      <created>1768459084376</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1767815281011</updated>
-      <workItem from="1767815282111" duration="114000" />
-      <workItem from="1767819142875" duration="912000" />
-      <workItem from="1767821011477" duration="905000" />
-      <workItem from="1767859088715" duration="2425000" />
-      <workItem from="1767867884219" duration="3967000" />
-      <workItem from="1767882072397" duration="494000" />
-      <workItem from="1767882877512" duration="86000" />
-      <workItem from="1767883155499" duration="3762000" />
-      <workItem from="1767902525061" duration="8245000" />
-      <workItem from="1767994291787" duration="2169000" />
-      <workItem from="1768035855152" duration="1478000" />
-      <workItem from="1768050581641" duration="773000" />
-      <workItem from="1768062540410" duration="3773000" />
-      <workItem from="1768386870214" duration="8199000" />
-      <workItem from="1768424548626" duration="42000" />
+      <updated>1768459084376</updated>
+      <workItem from="1768459087366" duration="97000" />
     </task>
-    <task id="LOCAL-00001" summary="-">
-      <option name="closed" value="true" />
-      <created>1767815371746</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1767815371746</updated>
-    </task>
-    <task id="LOCAL-00002" summary="-">
-      <option name="closed" value="true" />
-      <created>1767821187003</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1767821187003</updated>
-    </task>
-    <task id="LOCAL-00003" summary="-">
-      <option name="closed" value="true" />
-      <created>1767821666359</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1767821666359</updated>
-    </task>
-    <task id="LOCAL-00004" summary="-">
-      <option name="closed" value="true" />
-      <created>1767821914793</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1767821914793</updated>
-    </task>
-    <task id="LOCAL-00005" summary="--">
-      <option name="closed" value="true" />
-      <created>1767865374059</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1767865374059</updated>
-    </task>
-    <task id="LOCAL-00006" summary="-">
-      <option name="closed" value="true" />
-      <created>1767868965143</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1767868965143</updated>
-    </task>
-    <task id="LOCAL-00007" summary="-">
-      <option name="closed" value="true" />
-      <created>1767869998329</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1767869998329</updated>
-    </task>
-    <task id="LOCAL-00008" summary="-">
-      <option name="closed" value="true" />
-      <created>1767871715596</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1767871715596</updated>
-    </task>
-    <task id="LOCAL-00009" summary="-">
-      <option name="closed" value="true" />
-      <created>1767885564431</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1767885564431</updated>
-    </task>
-    <task id="LOCAL-00010" summary="-">
-      <option name="closed" value="true" />
-      <created>1767886123612</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1767886123612</updated>
-    </task>
-    <task id="LOCAL-00011" summary="-">
-      <option name="closed" value="true" />
-      <created>1767886706729</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1767886706729</updated>
-    </task>
-    <task id="LOCAL-00012" summary="-">
-      <option name="closed" value="true" />
-      <created>1767906027260</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1767906027260</updated>
-    </task>
-    <task id="LOCAL-00013" summary="-">
-      <option name="closed" value="true" />
-      <created>1767911089697</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1767911089697</updated>
-    </task>
-    <task id="LOCAL-00014" summary="-">
-      <option name="closed" value="true" />
-      <created>1767911639354</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1767911639354</updated>
-    </task>
-    <task id="LOCAL-00015" summary="-">
-      <option name="closed" value="true" />
-      <created>1767912509774</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1767912509774</updated>
-    </task>
-    <task id="LOCAL-00016" summary="-">
-      <option name="closed" value="true" />
-      <created>1767995676031</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1767995676031</updated>
-    </task>
-    <task id="LOCAL-00017" summary="-">
-      <option name="closed" value="true" />
-      <created>1768050626379</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1768050626379</updated>
-    </task>
-    <task id="LOCAL-00018" summary="-">
-      <option name="closed" value="true" />
-      <created>1768387950246</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1768387950246</updated>
-    </task>
-    <task id="LOCAL-00019" summary="-">
-      <option name="closed" value="true" />
-      <created>1768393447570</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1768393447570</updated>
-    </task>
-    <task id="LOCAL-00020" summary="-">
-      <option name="closed" value="true" />
-      <created>1768393543712</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1768393543712</updated>
-    </task>
-    <task id="LOCAL-00021" summary="-">
-      <option name="closed" value="true" />
-      <created>1768393802865</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1768393802865</updated>
-    </task>
-    <task id="LOCAL-00022" summary="-">
-      <option name="closed" value="true" />
-      <created>1768395943607</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1768395943607</updated>
-    </task>
-    <task id="LOCAL-00023" summary="-">
-      <option name="closed" value="true" />
-      <created>1768403261166</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1768403261166</updated>
-    </task>
-    <task id="LOCAL-00024" summary="-">
-      <option name="closed" value="true" />
-      <created>1768404114179</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1768404114179</updated>
-    </task>
-    <task id="LOCAL-00025" summary="-">
-      <option name="closed" value="true" />
-      <created>1768404319771</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1768404319771</updated>
-    </task>
-    <task id="LOCAL-00026" summary="-">
-      <option name="closed" value="true" />
-      <created>1768405236167</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1768405236167</updated>
-    </task>
-    <task id="LOCAL-00027" summary="-">
-      <option name="closed" value="true" />
-      <created>1768406000181</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1768406000181</updated>
-    </task>
-    <task id="LOCAL-00028" summary="-">
-      <option name="closed" value="true" />
-      <created>1768410921900</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1768410921900</updated>
-    </task>
-    <task id="LOCAL-00029" summary="-">
-      <option name="closed" value="true" />
-      <created>1768411044501</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1768411044501</updated>
-    </task>
-    <task id="LOCAL-00030" summary="-">
-      <option name="closed" value="true" />
-      <created>1768415971998</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1768415971998</updated>
-    </task>
-    <task id="LOCAL-00031" summary="-">
-      <option name="closed" value="true" />
-      <created>1768416876139</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1768416876139</updated>
-    </task>
-    <task id="LOCAL-00032" summary="-">
-      <option name="closed" value="true" />
-      <created>1768417015821</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1768417015821</updated>
-    </task>
-    <task id="LOCAL-00033" summary="-">
-      <option name="closed" value="true" />
-      <created>1768419834627</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1768419834627</updated>
-    </task>
-    <task id="LOCAL-00034" summary="-">
-      <option name="closed" value="true" />
-      <created>1768420943366</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1768420943366</updated>
-    </task>
-    <task id="LOCAL-00035" summary="-">
-      <option name="closed" value="true" />
-      <created>1768421933359</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1768421933359</updated>
-    </task>
-    <task id="LOCAL-00036" summary="-">
-      <option name="closed" value="true" />
-      <created>1768421983634</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1768421983634</updated>
-    </task>
-    <task id="LOCAL-00037" summary="-">
-      <option name="closed" value="true" />
-      <created>1768424361934</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1768424361934</updated>
-    </task>
-    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="--" />
-    <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
