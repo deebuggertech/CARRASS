@@ -8,13 +8,12 @@ from data_sources.camera_capture import CameraCapture
 from data_sources.radar_capture import RadarCapture
 from data_sources.storage import DataRecorder, DataPlayer
 from processing.cam_background_removal import remove_background, load_background_image
-from processing.classification import classify
-from processing.kalman import KalmanFilter2D, track_objects, visualize_kalman
+from processing.classification import classify_objects, save_classified_crops
+from processing.kalman import track_objects
 from utils.config import CAMERA_FOV_DEGREE
 
 RADAR_WIN = 'Radar'
 CAMERA_WIN = 'Camera Frame'
-OUTPUT_WIN = 'Output'
 RECORDINGS_DIR = 'recordings'
 DEBUG_FRAME_W, DEBUG_FRAME_H = 800, 600
 
@@ -108,8 +107,6 @@ def main_loop(mode, name, verbose):
     cv2.resizeWindow(RADAR_WIN, DEBUG_FRAME_W, DEBUG_FRAME_H)
     cv2.namedWindow(CAMERA_WIN, cv2.WINDOW_NORMAL)
     cv2.resizeWindow(CAMERA_WIN, DEBUG_FRAME_W, DEBUG_FRAME_H)
-    cv2.namedWindow(OUTPUT_WIN, cv2.WINDOW_NORMAL)
-    cv2.resizeWindow(OUTPUT_WIN, DEBUG_FRAME_W, DEBUG_FRAME_H)
 
     background = load_background_image("recordings/session_person/background_reference.jpg")
     
@@ -125,8 +122,12 @@ def main_loop(mode, name, verbose):
             
 
             if camera_frame is not None:
-                contour_data = remove_background(camera_frame, background, verbose=False)
+                contour_data = remove_background(camera_frame, background, verbose=verbose)
                 objects = track_objects(radar_data, contour_data, trackers, camera_width_px=camera_frame.shape[1], original_frame=camera_frame, verbose=verbose)
+                objects_classified = classify_objects(objects, camera_frame, background, verbose=verbose)
+
+                save_classified_crops(objects_classified, camera_frame, background, output_dir="intermediate") #save intermediate results
+
 
                 key = cv2.waitKey(1) & 0xFF
                 if key == ord('q'):
@@ -134,13 +135,12 @@ def main_loop(mode, name, verbose):
                 
                 try:
                     if (cv2.getWindowProperty(RADAR_WIN, cv2.WND_PROP_VISIBLE) < 1 or
-                        cv2.getWindowProperty(CAMERA_WIN, cv2.WND_PROP_VISIBLE) < 1 or
-                        cv2.getWindowProperty(OUTPUT_WIN, cv2.WND_PROP_VISIBLE) < 1):
+                        cv2.getWindowProperty(CAMERA_WIN, cv2.WND_PROP_VISIBLE) < 1):
                         break
                 except Exception:
                     break
             
-            time.sleep(0.25)
+            time.sleep(0.1)
     
     except KeyboardInterrupt:
         print("\nInterrupted by user")

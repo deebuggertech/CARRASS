@@ -20,6 +20,8 @@ wheels/
 .installed.cfg
 *.egg
 
+graphics/
+
 # Virtual environments
 venv/
 ENV/
@@ -31,7 +33,9 @@ env/
 *~
 
 # Recordings (user data)
-recordings/
+recordings/*
+!recordings/robot.stl
+!recordings/.gitkeep
 *.json
 *.jpg
 *.png
