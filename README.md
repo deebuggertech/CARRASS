@@ -34,6 +34,11 @@
 | **6-DOF Pose Estimation**       | Estimates the full **6-DOF pose** based on the **[HCCEPose](https://github.com/WangYuLin-SEU/HCCEPose)** framework ([Paper](https://arxiv.org/abs/2510.10177)). Training and inference were executed on sample data in a cloud environment. Due to time constraints and integration challenges, inference logic was not integrated into the processing pipeline. However, intermediate representations can be stored to enable straightforward evaluation in the cloud environment. Trained model weights are available [here](https://tum.fredhennecke.com/x/57e09ad469fab426/6eb84bfacdf75e16.zip). | <img src="docs/hcce_train.jpg" width="100%">    |
 | **Safe Algorithmic Validation** | Provides a sample **6-DOF pose estimate** and corresponding model rendering in `safety_cage_validate_src`, enabling systematic testing and validation of the proposed safety logic.                                                                                                                                                                                                                                                                                                                                                                                                                           | <img src="docs/compare_report.jpg" width="100%"> |
 
+## 3D Model Assets
+
+The 3D model of our sample robot (carry-on suitcase) was captured using the KIRI Engine. Model files with textures are available [here](https://tum.fredhennecke.com/x/57e09ad469fab426/f06f7521f2f6b337.zip).
+
+
 ## Acknowledgements
 
 This project builds upon the **HCCEPose** framework by Wang et al. We thank the authors for making their code and publication publicly available, which enabled rapid experimentation and evaluation in this work.
